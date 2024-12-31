@@ -17,4 +17,4 @@ Technologies Utilized
   - Tailwind CSS: A utility-first CSS framework that facilitates quick styling and responsive design implementation.
 
 LINKS
-  - [DEMO LINK](taskflow-olive.vercel.app)
+  - [DEMO LINK](https://taskflow-olive.vercel.app/)
